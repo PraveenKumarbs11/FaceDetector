@@ -1,2 +1,0 @@
-# FaceDetector
-Created with CodeSandbox
